@@ -22,6 +22,7 @@ Trees-javascript
 
 
 | 1 | [what are trees](#)  
+# types of trees in DSA
 
 
 
