@@ -23,7 +23,7 @@ Trees-javascript
 
 | 1 | [what are trees](#)  
 # Trees and its subtypes
-![what-are-trees](#image1.png)
+![what-are-trees](./whataretrees/image1.png)
 
 
 
