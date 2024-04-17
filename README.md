@@ -26,5 +26,7 @@ Trees-javascript
 ![what-are-trees](./whataretrees/image1.png)
 
 
-
+| 2 | [Types of trees](#)    
+# Trees and its types
+![types-of-trees](./image2.png)
 
