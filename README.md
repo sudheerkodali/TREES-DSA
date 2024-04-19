@@ -30,3 +30,7 @@ Trees-javascript
 # Trees and its types
 ![types-of-trees](./image2.png)
 
+| 3 | [Height balanced binary trees](#)    
+# Height balanced trees
+![](./)
+
