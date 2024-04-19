@@ -27,10 +27,12 @@ Trees-javascript
 
 
 | 2 | [Types of trees](#)    
-# Trees and its types
+# 2.1 Trees and its types
+<p> Two childrens is called BT 'Binary tree' </p>
 ![types-of-trees](./typesoftrees/image1.png)
 
-
+# 2.2 Trees and its types
+<p> Different names and its types </p>
 ![types-of-trees](./typesoftrees/image2.png)
 
 | 3 | [Height balanced binary trees](#)    
