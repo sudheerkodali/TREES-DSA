@@ -37,6 +37,20 @@ Trees-javascript
 
 ![types-of-trees](./typesoftrees/image2.png)
 
+# 2.3 Trees and its types 
+
+![types-of-trees](./typesoftrees/image3.png)
+
+# 2.4 
+![types-of-trees](./typesoftrees/image4.png)
+
+# 2.5
+![types-of-trees](./typesoftrees/image5.png)
+
+# 2.6
+![types-of-trees](./typesoftrees/image6.png)
+
+
 | 3 | [Height balanced binary trees](#)    
 # Height balanced trees
 ![](./)
