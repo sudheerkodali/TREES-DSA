@@ -23,6 +23,7 @@ Trees-javascript
 
 | 1 | [what are trees](#)  
 # Trees and its subtypes
+<p> Trees and its subtypes how it can be divided into different Properties,Group to Sub-groups, and here is the best example how Tree is divided into sub tree with different roles bases of the company structure or we called it as child properties </p> 
 ![what-are-trees](./whataretrees/image1.png)
 
 
