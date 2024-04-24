@@ -55,9 +55,9 @@ Trees-javascript
 
 | 3 | [Height balanced binary trees](#)    
 # 3.1 Height balanced trees
-![]Height-balanced-binary(./heightbalancedbinarytree/image1.png)
+![Height-balanced-binary](./heightbalancedbinarytree/image1.png)
 
 # 3.2 Height balanced trees
-![]Height-balanced-binary(./heightbalancedbinarytree/image2.png)
+![Height-balanced-binary](./heightbalancedbinarytree/image2.png)
 
 
