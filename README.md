@@ -76,5 +76,18 @@ Trees-javascript
 
 | 6 | [Post order traversal](#) 
 # 6.1 Post order traversal
+![postordertraversal](./postordertraversal/image1.png)
 
+# 6.2 post order traversal
+![postordertraversal](./postordertraversal/image2.png)
 
+# 6.3 post order traversal
+![postordertraversal](./postordertraversal/image3.png)
+
+| 8 | [pre order traversal]
+# 8.1 pre order traversal types
+![preordertraversal](./preordertraversal/image1.png)
+
+| 10 | [in-order-traversal]
+# 10.1 inorder traversal
+![inorder traversal](./inordertraversal/image1.png)
