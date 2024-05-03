@@ -9,12 +9,12 @@ Trees-javascript
 | 4 | [Level order traversal](#)                                                                                                                                                |
 | 5 | [Level order travesal implementation](#)                                                                                                                                  |
 | 6 | [Post order traversal](#)                                                                                                                                                 |
-| 7 | [Posr order traversal implementation](#)                                                                                                                                  |
+| 7 | [Post order traversal implementation](#)                                                                                                                                  |
 | 8 | [In order traversal](#)                                                                                                                                                   |
 | 9 | [Terms related to trees](#)                                                                                                                                               |
-| 8 | [Pree order traversal ](#)                                                                                                                                                |       
-| 9 | [Pree order traversal implementation ](#)                                                                                                                                | 
-| 10 | [In order traversal implementation ](#)                                                                                                                                 |    
+| 8 | [Pre order traversal ](#)                                                                                                                                                |       
+| 9 | [Pre order traversal implementation ](#)                                                                                                                                 | 
+| 10| [In order traversal implementation ](#)                                                                                                                                  |    
 
 
 
