@@ -71,7 +71,7 @@ Trees-javascript
 
 
 | 5 | [Level order travesal implementation](#)
-# 5.1 Travesal implementation programming
+# 5.1 Level order traversal implementation programming
 
 
 | 6 | [Post order traversal](#) 
