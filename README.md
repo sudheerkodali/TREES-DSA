@@ -5,13 +5,13 @@ Trees-javascript
 |    | How can be used                                                                                                                                                          |
 | 1 | [what are trees](#)                                                                                                                                                       |
 | 2 | [Types of trees](#)                                                                                                                                                       |
-| 3 | [Height balanced binary trees](#)                                                                                                                                         |                                                                                                                                                         
+| 3 | [Terms releated to trees](#)                                                                                                                                             |                                                                                                                                                         
 | 4 | [Level order traversal](#)                                                                                                                                                |
 | 5 | [Level order travesal implementation](#)                                                                                                                                  |
 | 6 | [Post order traversal](#)                                                                                                                                                 |
 | 7 | [Post order traversal implementation](#)                                                                                                                                  |
 | 8 | [In order traversal](#)                                                                                                                                                   |
-| 9 | [Terms related to trees](#)                                                                                                                                               |
+| 9 | [Height balanced binary trees]](#)                                                                                                                                        |
 | 8 | [Pre order traversal ](#)                                                                                                                                                |       
 | 9 | [Pre order traversal implementation ](#)                                                                                                                                 | 
 | 10| [In order traversal implementation ](#)                                                                                                                                  |    
@@ -52,12 +52,14 @@ Trees-javascript
 # 2.6
 ![types-of-trees](./typesoftrees/image6.png)
 
+| 3 | [Terms related to trees](#)
 
-| 3 | [Height balanced binary trees](#)    
-# 3.1 Height balanced trees
+
+| 9 | [Height balanced binary trees](#)    
+# 9.1 Height balanced trees
 ![Height-balanced-binary](./heightbalancedbinarytree/image1.png)
 
-# 3.2 Height balanced trees
+# 9.2 Height balanced trees
 ![Height-balanced-binary](./heightbalancedbinarytree/image2.png)
 
 
