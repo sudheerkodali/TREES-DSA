@@ -11,7 +11,7 @@ Trees-javascript
 | 6 | [Post order traversal](#)                                                                                                                                                 |
 | 7 | [Post order traversal implementation](#)                                                                                                                                  |
 | 8 | [In order traversal](#)                                                                                                                                                   |
-| 9 | [Height balanced binary trees]](#)                                                                                                                                        |
+| 9 | [Height balanced binary trees](#)                                                                                                                                         |
 | 8 | [Pre order traversal ](#)                                                                                                                                                |       
 | 9 | [Pre order traversal implementation ](#)                                                                                                                                 | 
 | 10| [In order traversal implementation ](#)                                                                                                                                  |    
