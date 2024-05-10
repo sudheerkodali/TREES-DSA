@@ -54,6 +54,25 @@ Trees-javascript
 
 | 3 | [Terms related to trees](#)
 
+# 3.1
+![Terms related to trees](./TermsrelatedtoTrees/image1.png)
+
+# 3.2
+![Terms related to trees](./TermsrelatedtoTrees/image2.png)
+
+# 3.3
+![Terms related to trees](./TermsrelatedtoTrees/image3.png)
+
+# 3.4
+![Terms related to trees](./TermsrelatedtoTrees/image4.png)
+
+# 3.5
+![Terms related to trees](./TermsrelatedtoTrees/image5.png)
+
+# 3.6
+![Terms related to trees](./TermsrelatedtoTrees/image6.png)
+
+
 
 | 9 | [Height balanced binary trees](#)    
 # 9.1 Height balanced trees
