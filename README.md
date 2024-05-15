@@ -5,19 +5,18 @@ Trees-javascript
 |    | How can be used                                                                                                                                                          |
 | 1 | [what are trees](#)                                                                                                                                                       |
 | 2 | [Types of trees](#)                                                                                                                                                       |
-| 3 | [Terms releated to trees](#)                                                                                                                                             |                                                                                                                                                         
+| 3 | [Terms releated to trees](#)                                                                                                                                              |                                                                                                                                                         
 | 4 | [Level order traversal](#)                                                                                                                                                |
 | 5 | [Level order travesal implementation](#)                                                                                                                                  |
 | 6 | [Post order traversal](#)                                                                                                                                                 |
 | 7 | [Post order traversal implementation](#)                                                                                                                                  |
 | 8 | [In order traversal](#)                                                                                                                                                   |
-| 9 | [Height balanced binary trees](#)                                                                                                                                         |
-| 8 | [Pre order traversal ](#)                                                                                                                                                |       
-| 9 | [Pre order traversal implementation ](#)                                                                                                                                 | 
-| 10| [In order traversal implementation ](#)                                                                                                                                  |    
-
-
-
+| 9 | [In order traversal implementation ](#)                                                                                                                      |  
+| 10 | [Pre order traversal ](#)                                                                                                                                                |       
+| 11 | [Pre order traversal implementation ](#)                                                                                                                                 | 
+| 12 | [Height balanced binary trees](#)                                                                                                                           |
+                                                                                                                                                                     
+                                                                                                                                                                    
 
 
 
@@ -108,6 +107,7 @@ Trees-javascript
 | 8 | [pre order traversal]
 # 8.1 pre order traversal types
 ![preordertraversal](./preordertraversal/image1.png)
+
 
 | 10 | [in-order-traversal]
 # 10.1 inorder traversal
